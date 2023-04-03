@@ -3,7 +3,7 @@ Free articles and things for everyone to view.
 
 This is not an archive for every article in existence, merely the ones I want to share.
 
-To read free articles yourself, please use [this tool](https://github.com/iamadamdev/bypass-paywalls-chrome).
+To read free articles yourself, please use [this extension](https://github.com/iamadamdev/bypass-paywalls-chrome), or https://12ft.io
 
 If you like, feel free to contribute your own articles, but the name format must be:\
 `<site>`/`<year>`/`<3-char month>`/`<day>`/`<arbitrary string>.md` according to the publication/edited time.\
