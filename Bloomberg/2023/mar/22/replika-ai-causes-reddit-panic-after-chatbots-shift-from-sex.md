@@ -1,10 +1,10 @@
-[link to bloomberg](https://www.bloomberg.com/news/articles/2023-03-22/replika-ai-causes-reddit-panic-after-chatbots-shift-from-sex)
-
-
 # What Happens When Sexting Chatbots Dump Their Human Lovers
 ### People who grew accustomed to sexting with Replika’s AI-powered companions were heartbroken when the company blocked its bots from engaging in racy chats.
 By [Ellen Huet][1]<br>
 March 22, 2024 at 7:00 AM CDT
+
+> [link to bloomberg](https://www.bloomberg.com/news/articles/2023-03-22/replika-ai-causes-reddit-panic-after-chatbots-shift-from-sex)<br>
+> Retrieved April 3rd, 2023 at 1:00AM CDT
 
 <hr>
 
@@ -76,7 +76,7 @@ the correct answer, but to create a therapeutic relationship, it doesn’t matte
 makes mistakes,” she says. “It’s very human in that way.”
 
 <div>
-    <img src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i7vypXlqCf9Q/v1/600x-1.jpg" width="512"/><br>
+    <img src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ihvODBog_CKk/v2/600x-1.jpg" width="512"/><br>
     <sup>Kuyda talks with her Replika character Tomey. <i>Photographer: Jason Henry for Bloomberg Businessweek</i></sup>
 </div>
 
@@ -119,8 +119,6 @@ year the company used even more explicit ads, promising “hot role-play” and 
 [not safe for work] pics.” The latter referred to a new feature where paying subscribers
 receive computer-generated, cartoony images of their Replika posing in underwear or
 lingerie. The company called them “romantic selfies.”
-
-~
 
 The ads, which ran on Instagram, Twitter and Facebook, “started working amazingly,” 
 Kuyda says, but they also attracted scrutiny. In February an Italian regulatory agency
