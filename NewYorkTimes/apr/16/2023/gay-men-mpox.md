@@ -6,8 +6,6 @@ April 16, 2023, 9:00 a.m. ET
 Dr. Park is a professor of family and community medicine at the \
 University of California San Francisco. Mr. Savage is an author.
 
-<div><br></div>
-
 > [Link to article](https://www.nytimes.com/2023/04/16/opinion/gay-men-mpox.html) // 
 > [Archive](https://web.archive.org/web/20230416224555/https://www.nytimes.com/2023/04/16/opinion/gay-men-mpox.html) \
 > Retrieved Apr 17, 2023; 11:22 AM
