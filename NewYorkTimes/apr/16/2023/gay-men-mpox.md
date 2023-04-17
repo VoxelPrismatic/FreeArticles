@@ -1,14 +1,18 @@
 ### OPINION
 # How Gay Men Saved Us From Mpox
 April 16, 2023, 9:00 a.m. ET
-**By Ina Park and Dan Savage**
 
-Dr. Park is a professor of family and community medicine at the University of California \
-San Francisco. Mr. Savage is an author.
+**By Ina Park and Dan Savage** \
+Dr. Park is a professor of family and community medicine at the \
+University of California San Francisco. Mr. Savage is an author.
+
+<div><br></div>
 
 > [Link to article](https://www.nytimes.com/2023/04/16/opinion/gay-men-mpox.html) // 
 > [Archive](https://web.archive.org/web/20230416224555/https://www.nytimes.com/2023/04/16/opinion/gay-men-mpox.html) \
 > Retrieved Apr 17, 2023; 11:22 AM
+
+<hr>
 
 <img src="https://user-images.githubusercontent.com/45671764/232548527-d00b8c34-53d2-49c6-992b-5d7630d48853.png" width="512px"/><br>
 <sup><i>Nash Weerasekera</i></sup>
@@ -126,7 +130,7 @@ But while health officials and journalists hesitated, gay and bi men \
 sprang into action. Young men with lesions covering their faces \
 took to social and mainstream media, telling the public that they \
 were dealing with "the [worst pain I've experienced in my life][19]" and, \
-perhaps the most telling, "[I'd rather have Covid.][20]" [Benjamin Ryan][21], a \
+perhaps the most telling, "[I'd rather have Covid][20]." [Benjamin Ryan][21], a \
 gay journalist, and [Carlton Thomas][22], a gay doctor, risked \
 cancellation — e.g., being yelled at on Twitter — to dish out what \
 Dr. Thomas referred to as "tough love" advice for their community: \
@@ -209,13 +213,23 @@ When it comes to emerging health threats — even ones that can \
 spread sexually — gay men can handle the truth. You can give it to \
 them straight.
 
+<hr>
+
+> Ina Park ([@InaParkMD][28]) is a professor of family and community \
+> medicine at the University of California San Francisco and the \
+> author of "[Strange Bedfellows][29]: Adventures in the Science, History \
+> and Surprising Secrets of S.T.D.s." Dan Savage has been writing \
+> "[Savage Love][30]," one of the most widely read sex advice columns \
+> in the country, for more than 30 years and is also the host of \
+> "[Savage Lovecast][31]."
+
 [1]: https://web.archive.org/web/20230416224555/https://www.cdc.gov/poxvirus/mpox/outbreak/us-outbreaks.html
 [2]: https://www.npr.org/sections/goatsandsoda/2022/07/28/1114183886/a-doctor-in-nigeria-tried-to-warn-the-world-that-monkeypox-had-become-a-global-t
 [3]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6469755/#pone.0214229.ref007
 [4]: https://wwwnc.cdc.gov/eid/article/28/10/22-1047_article
 [5]: https://www.fodors.com/news/news/monkeypox-outbreak-what-you-need-to-know-if-youre-traveling
 [6]: https://www.thestreet.com/investing/will-monkeypox-weigh-on-travel
-[7]: https://www.forbes.com/sites/roberthart/2022/08/12/monkeypox-heres-how-colleges-are-preparing-for-possible-outbreaks-as-students-return/?sh=3aad5f90277d
+[7]: https://www.forbes.com/sites/roberthart/2022/08/12/monkeypox-heres-how-colleges-are-preparing-for-possible-outbreaks-as-students-return/
 [8]: https://www.cdc.gov/poxvirus/mpox/about/science-behind-transmission.html
 [9]: https://www.nytimes.com/2022/12/02/us/politics/monkeypox-public-health-emergency.html
 [10]: https://www.cdc.gov/poxvirus/monkeypox/response/2022/us-map.html
@@ -236,3 +250,7 @@ them straight.
 [25]: https://www.cdc.gov/poxvirus/monkeypox/prevention/sexual-health.html
 [26]: https://www.hiv.gov/federal-response/funding/budget
 [27]: https://www.masslive.com/news/2022/08/monkeypox-treatment-complaints-over-slow-reaction-to-disease-filed-with-ag-maura-healeys-office.html
+[28]: https://web.archive.org/web/20230416224555/https://www.instagram.com/inaparkmd/
+[29]: https://web.archive.org/web/20230416224555/https://us.macmillan.com/books/9781250206657
+[30]: https://web.archive.org/web/20230416224555/https://www.thestranger.com/collections/74797053/savage-love
+[31]: https://web.archive.org/web/20230416224555/https://savage.love/lovecast/
